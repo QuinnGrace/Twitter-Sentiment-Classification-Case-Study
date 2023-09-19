@@ -35,6 +35,11 @@ A wordcloud that is generated from the Tweets of people who believe in climate c
 
 A wordcloud that is generated from the Tweets of people who do not believe in climate change.
 
+
+https://github.com/QuinnGrace/Twitter-Sentiment-Classification-Case-Study/assets/73368635/33b8f0de-837f-44f6-aa3f-c6be589bbb4b
+
+A demo of the app.
+
 ## Conclusions
 
 ## Recommendations
@@ -42,4 +47,8 @@ A wordcloud that is generated from the Tweets of people who do not believe in cl
 
 ## Acknowledgements
 I would like to thank my team members for their contributions:
-
+- Ebuka Onwudinjo (Team Lead)
+- Rofhiwa Ntshagovhe (Vice Team Lead)
+- Tolulope Adeleke (Administrative Lead)
+- Toka Ramakau
+- Olanike Rachael Oluwaseyi
