@@ -17,10 +17,23 @@ Amidst a seemingly growing skepticism towards climate change, companies that mar
   - scikit-learn
   - nltk
 - Comet
+- GitHub
 
 ## Output
 
 An SVC model with an F1-score (accuracy) of 0.76105. This placed us 15th out of 293 teams in the Kaggle leaderboard.
+
+![WhatsApp Image 2023-06-25 at 13 09 49](https://github.com/QuinnGrace/Twitter-Sentiment-Classification-Case-Study/assets/73368635/55c87c82-e717-464a-b8f3-4f20e876524a)
+
+Pie chart showing the proportion of sentiments towards climate change in the dataset.
+
+![believe](https://github.com/QuinnGrace/Twitter-Sentiment-Classification-Case-Study/assets/73368635/6e9c6fce-9734-4b61-aca9-c8aad325e84c)
+
+A wordcloud that is generated from the Tweets of people who believe in climate change.
+
+![donotbelieve](https://github.com/QuinnGrace/Twitter-Sentiment-Classification-Case-Study/assets/73368635/599135ce-48f3-4045-a765-21a121deb033)
+
+A wordcloud that is generated from the Tweets of people who do not believe in climate change.
 
 ## Conclusions
 
